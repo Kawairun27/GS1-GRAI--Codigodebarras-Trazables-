@@ -1,8 +1,8 @@
-streamlit
-pandas
+streamlit==1.55.0
+pandas==2.3.3
 numpy
 opencv-python-headless
-sqlalchemy
-fpdf
-altair
-zxing-cpp
+sqlalchemy==2.0.48
+fpdf==1.7.2
+altair==6.0.0
+zxing-cpp==3.0.0
